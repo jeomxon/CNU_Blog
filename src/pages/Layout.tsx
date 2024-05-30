@@ -66,8 +66,8 @@ const Layout = () => {
           />
         </div>
         <div>
-          <Name>이름</Name>
-          <Description>설명</Description>
+          <Name>유정훈</Name>
+          <Description>사용하고 싶은 프로덕트를 개발하는 백엔드 개발자</Description>
         </div>
       </Profile>
       <Nav>
