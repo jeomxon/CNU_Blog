@@ -1,7 +1,7 @@
 const Resume = () => {
   return (
     <div>
-      <style jsx>{`
+      <style>{`
         .resume-container {
           width: 80%;
           margin: auto;
